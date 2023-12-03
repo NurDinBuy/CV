@@ -59,7 +59,7 @@ _Geeks Online_ - education platform for _Geeks_ students that simplifies the stu
 ## 🗣️ Languages
 
 🇺🇸 **English**: C1 <br>
-🇷🇺 **Russian**: C2
+🇷🇺 **Russian**: C2 <br>
 🇰🇬 **Kyrgyz**: C2
 <br><br>
 
