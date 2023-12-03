@@ -53,6 +53,9 @@ _Geeks_ - landing site for _Geeks_ IT education center. It's purpose is to let u
 **Geeks Online** <br>
 _Geeks Online_ - education platform for _Geeks_ students that simplifies the study process for both students and teachers by posting lessons, home works, lesson schedule, creating marks table and student list. Teachers have separate pages for groups where they can manage all the groups they teach.
 
+**[Tez Sat](https://tezsat.kg/)** <br>
+_Tez Sat_ - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos. Items claim is also easy with _Tez Sat_.
+
 ## 📃 Certificates
 
 **Certified Full-Stack Developer** [Credential](https://tartip.kg/verify/EB230001414A0084000106596) _(Jul 2022)_ <br>
