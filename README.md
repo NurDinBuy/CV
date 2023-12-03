@@ -42,6 +42,8 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Code optimization.
 - Technologies used: JavaScript, TypeScript, HTML5, CSS3, SCSS, React, Redux, Redux-Toolkit, Next.js, Ant-Design, Material UI, Webpack, EsLint.
 
+### Projects
+
  **[TipsOn](https://tipson.kg/)** <br>
 _TipsOn_ - platform to leave feedbacks and tips to staff easily using a QR code. _TipsOn_ allows you to check your employees, follow reviews and supports built-in ratings of your employees. Increase your tip amount dramatically using _TipsOn_.
 
@@ -57,7 +59,7 @@ _Geeks Online_ - education platform for _Geeks_ students that simplifies the stu
 
 ## 🗣️ Languages
 
-🇺🇸 **English**: C1 <br>
+🇺🇸 **English**: A1<br>
 🇷🇺 **Russian**: C2 <br>
 🇰🇬 **Kyrgyz**: C2
 <br><br>
