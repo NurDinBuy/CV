@@ -54,7 +54,7 @@ _Geeks Online_ - education platform for _Geeks_ students that simplifies the stu
 
 ## 📃 Certificates
 
-**Certified Full-Stack Developer** [Credential](https://tartip.kg/verify/EB230001414A0084000106596) _(Mar 2023)_ <br>
+**Certified Full-Stack Developer** [Credential](https://tartip.kg/verify/EB230001414A0084000106596) _(Jul 2022)_ <br>
 
 ## 🗣️ Languages
 
@@ -65,4 +65,4 @@ _Geeks Online_ - education platform for _Geeks_ students that simplifies the stu
 
 ## 👩🏼‍🎓 Education
 
-**Full-Stack Developer** [Geeks](https://geeks.kg/) _(Sep 2021 - July 2022)_ <br>
+**Full-Stack Developer** [Geeks](https://geeks.kg/) _(Sep 2021 - Jul 2022)_ <br>
