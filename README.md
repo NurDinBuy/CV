@@ -1,4 +1,4 @@
-# Timur Abdyraev
+# Nurdin Kubatbekov
 _FrontEnd Developer with Rich Experience in Web Development and Teaching from Bishkek, Kyrgyzstan 🇰🇬_ <br>
 
 [Email](mailto:nurdinbuy@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/nurdinbuy/) / [GitHub](https://github.com/NurDinBuy/) / [Telegram](https://t.me/nurdinbuy16)
@@ -54,17 +54,15 @@ _Geeks Online_ - education platform for _Geeks_ students that simplifies the stu
 
 ## 📃 Certificates
 
-**Certified Android Developer** [Credential](https://tartip.kg/verify/EB230001414A0084000106596) _(Mar 2023)_ <br>
+**Certified Full-Stack Developer** [Credential](https://tartip.kg/verify/EB230001414A0084000106596) _(Mar 2023)_ <br>
 
 ## 🗣️ Languages
 
 🇺🇸 **English**: C1 <br>
 🇷🇺 **Russian**: C2
 🇰🇬 **Kyrgyz**: C2
-
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
-**Bachelor of Computer Science** [Kyrgyz State Technical University](https://kstu.kg/en/) _(2023 - 2027)_ <br>
-**Full-Stack Developer** [Geeks](https://geeks.edu.kg/) _(Sep 2021 - July 2022)_ <br>
+**Full-Stack Developer** [Geeks](https://geeks.kg/) _(Sep 2021 - July 2022)_ <br>
