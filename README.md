@@ -3,7 +3,7 @@ _FrontEnd Developer with Rich Experience in Web Development and Teaching from Bi
 
 [Email](mailto:nurdinbuy@gmail.com) /  [LinkedIn](https://www.linkedin.com/in/nurdinbuy/) / [GitHub](https://github.com/NurDinBuy/) / [Telegram](https://t.me/nurdinbuy16)
 
-Hello! I am a seasoned **FrontEnd Developer** with _1 year and 6 month_ of commercial experience specializing in web application development. My technical prowess in **JavaScript**, **TypeScript**, and **React** forms the foundation of my development expertise.
+Hello! I am a seasoned **FrontEnd Developer** with _2 year and 6 month_ of commercial experience specializing in web application development. My technical prowess in **JavaScript**, **TypeScript**, and **React** forms the foundation of my development expertise.
 
 ## Core Proficiencies
 
@@ -55,6 +55,13 @@ _Geeks Online_ - education platform for _Geeks_ students that simplifies the stu
 
 **[Tez Sat](https://tezsat.kg/)** <br>
 _Tez Sat_ - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos. Items claim is also easy with _Tez Sat_.
+
+**[Lada Kg](https://lada.kg/)** <br>
+_Lada Kg_ - The website Lada.kg is an online platform for buying and selling LADA cars in Kyrgyzstan. It provides information on new and used LADA vehicles, pricing, dealerships, and special offers. Users can browse available models, compare features, and contact sellers directly.
+
+**[Football Kg](https://www.football.kg/)** <br>
+_Football kg_ - Football.kg is an online platform dedicated to football in Kyrgyzstan. It provides users with the latest news, match updates, league standings, and events related to Kyrgyz football. The website serves as a valuable resource for fans, players, and anyone interested in the development of football in the country.
+
 
 ## 📃 Certificates
 
